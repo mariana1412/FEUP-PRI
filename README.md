@@ -5,8 +5,11 @@ Dataset: https://www.kaggle.com/mdhamani/goodreads-books-100k
 ## Project Grades
 
 Milestone 1: 81% 
+
 Milestone 2: 86%
+
 Milestone 3: 85%
+
 Final Grade: 18.50
 
 ## DOCKER
